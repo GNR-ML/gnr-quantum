@@ -33,9 +33,3 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
-
-## Demo Preview
-
-![Demo Home](assets/demo-home.png)
-
-![Demo Sliders](assets/demo-sliders.png)
