@@ -31,5 +31,24 @@ This prototype provides a small but practical benchmark workflow for students an
 
 Install the required packages:
 
-```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
+
+Run the Streamlit app:
+
+    python -m streamlit run app.py
+
+## Demo Preview
+
+![Demo Home](demo-home.png)
+
+![Demo Sliders](demo-sliders.png)
+
+These screenshots show the current lightweight Streamlit demo for exploring toy Hückel Hamiltonians, bandgap estimates, and compact encoding comparisons.
+
+## Future Directions
+
+- Add graph-based descriptors
+- Add learned alpha and beta prediction
+- Add VQE-based experiments
+- Expand toward selected graphene nanoribbon model systems
+- Package the workflow as a more reusable benchmark toolkit
