@@ -2,7 +2,7 @@
 
 
 
-This project is an early open-source prototype for exploring small Hückel Hamiltonians with adjustable alpha and beta parameters, inspired by graphene nanoribbon systems.
+This repository contains an early open-source prototype for a reproducible benchmark workflow connecting computational chemistry and near-term quantum methods. It explores small Hückel Hamiltonians with fixed and structure-aware parameterization, estimates HOMO, LUMO, and bandgap values, and compares Jordan-Wigner and compact encoding in terms of qubit requirements.
 
 
 
